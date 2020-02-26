@@ -1,0 +1,397 @@
+@charset "UTF-8";
+
+/*
+@font-face{font-family:NG; font-style: normal; font-weight: normal;src:url('/skin/default/font/NanumGothic.eot);src:local(��),url('/skin/default/font/NanumGothic.woff) format('woff')} 
+@font-face{font-family:NGB; font-style: normal; font-weight: normal;src:url('/skin/default/font/NanumGothic-Bold.eot);src:local(��),url('/skin/default/font/NanumGothic-Bold.woff) format('woff')} 
+@font-face{font-family:Nanum Myeongjo; font-style: normal; font-weight: normal;src:url('/skin/default/font/NanumMyeongjo.eot);src:local(��),url('/skin/default/font/NanumMyeongjo.woff) format('woff')} 
+@font-face{font-family:Nanum MyeongjoB; font-style: normal; font-weight: normal;src:url('/skin/default/font/NanumMyeongjoBold.eot);src:local(��),url('/skin/default/font/NanumMyeongjoBold.woff) format('woff')} 
+*/
+/*
+ * Nanum Gothic (Korean) http://www.google.com/fonts/earlyaccess
+ */
+
+/*@import url(http://fonts.googleapis.com/earlyaccess/nanummyeongjo.css);
+
+* Nanum Myeongjo (Korean) http://www.google.com/fonts/earlyaccess*/
+
+@font-face {
+  font-family: 'Nanum Myeongjo';
+  font-style: normal;
+  font-weight: 400;
+  src: url(http://fonts.gstatic.com/ea/nanummyeongjo/v4/NanumMyeongjo-Regular.eot);
+  src: url(http://fonts.gstatic.com/ea/nanummyeongjo/v4/NanumMyeongjo-Regular.eot?#iefix) format('embedded-opentype'),
+       url(http://fonts.gstatic.com/ea/nanummyeongjo/v4/NanumMyeongjo-Regular.woff2) format('woff2'),
+       url(http://fonts.gstatic.com/ea/nanummyeongjo/v4/NanumMyeongjo-Regular.woff) format('woff'),
+       url(http://fonts.gstatic.com/ea/nanummyeongjo/v4/NanumMyeongjo-Regular.ttf) format('truetype');
+}
+
+/*
+@import url(https://cdn.rawgit.com/openhiun/hangul/14c0f6faa2941116bb53001d6a7dcd5e82300c3f/nanumbarungothic.css);
+*/
+/* 
+ * Nanum Barun Gothic (Korean) http://hangeul.naver.com
+
+@font-face {
+  font-family: 'Nanum Barun Gothic';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Nanum Barun Gothic UltraLight'), local('Nanum Barun Gothic-UltraLight'), local('NanumBarunGothic UltraLight');
+  src: url(./NanumBarunGothicUltraLight.eot);
+  src: url(./NanumBarunGothicUltraLight.eot?#iefix) format('embedded-opentype'),
+       url(./NanumBarunGothicUltraLight.woff) format('woff'),
+       url(./NanumBarunGothicUltraLight.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Nanum Barun Gothic';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Nanum Barun Gothic Light'), local('Nanum Barun Gothic-Light'), local('NanumBarunGothic Light');
+  src: url(./NanumBarunGothicLight.eot);
+  src: url(./NanumBarunGothicLight.eot?#iefix) format('embedded-opentype'),
+       url(./NanumBarunGothicLight.woff) format('woff'),
+       url(./NanumBarunGothicLight.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Nanum Barun Gothic';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Nanum Barun Gothic Regular'), local('Nanum Barun Gothic-Regular'), local('NanumBarunGothic Regular');
+  src: url(./NanumBarunGothic.eot);
+  src: url(./NanumBarunGothic.eot?#iefix) format('embedded-opentype'),
+       url(./NanumBarunGothic.woff) format('woff'),
+       url(./NanumBarunGothic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Nanum Barun Gothic';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Nanum Barun Gothic Bold'), local('Nanum Barun Gothic-Bold'), local('NanumBarunGothic Bold');
+  src: url(./NanumBarunGothicBold.eot);
+  src: url(./NanumBarunGothicBold.eot?#iefix) format('embedded-opentype'),
+       url(./NanumBarunGothicBold.woff) format('woff'),
+       url(./NanumBarunGothicBold.ttf) format('truetype');
+}
+*/
+
+
+/*Nanum Gothic (Korean) http://www.google.com/webfonts/earlyaccess*/
+
+@font-face {
+	font-family:NG;
+	font-style:normal;
+	font-weight:normal;
+	src:url('http://themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Regular.eot');
+	src:url('http://themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Regular.eot?#iefix') format('embedded-opentype'),
+		url('http://themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Regular.woff2') format('woff2'),
+		url('http://themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Regular.woff') format('woff'),
+		url('http://themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family:'NGB';
+	font-style:normal;
+	font-weight:normal;
+	src:url('http://themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Bold.eot');
+	src:url('http://themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Bold.eot?#iefix') format('embedded-opentype'),
+		url('http://themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Bold.woff2') format('woff2'),
+		url('http://themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Bold.woff') format('woff'),
+		url('http://themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family:'NGEB';
+	font-style:normal;
+	font-weight:normal;
+	src:url('http://themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-ExtraBold.eot');
+	src:url('http://themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-ExtraBold.eot?#iefix') format('embedded-opentype'),
+		url('http://themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-ExtraBold.woff2') format('woff2'),
+		url('http://themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-ExtraBold.woff') format('woff'),
+		url('http://themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-ExtraBold.ttf') format('truetype');
+}
+
+/* standard css start */
+body, div, h1, h2, h3, h4, h5, h6, ul, ol, li, dl, dt, dd, p, span, a, table, thead, tfoot, tbody, th, td, form, legend, label, input, textarea, address, strong, em, pre, q, abbr, acronym, cite, blockquote, object, iframe {margin:0; padding:0;}
+body { font-family:'NG', 'NBG', 돋움, Dotum, Arial, sans-serif; font-size:12px; color:#666; line-height:14px; -webkit-text-size-adjust: none;/*아이폰 글자크기 자동조정 방지*/ /*overflow:scroll; overflow-x:hidden;*/}
+@-moz-document url-prefix(){ body {letter-spacing:-0.3px;};}
+img, fieldset, hr {border:0; margin:0; padding:0;}
+img {vertical-align:top;}
+ul, ol {list-style-type:none;}
+h1, h2, h3, h4, h5, h6 {font-size:12px; font-weight:normal;}
+select, input, textarea {font-family:NG, 돋움, Dotum, Arial, sans-serif; color:#666; vertical-align:middle;}
+select {height:18px;}
+table {border-collapse:collapse;}
+address {font-style:normal;}
+hr {clear:both; display:none;}
+legend, caption {width:0; height:0; font-size:0; line-height:0; visibility:hidden; overflow:hidden;}
+
+a:link,a:visited			{color:#666; text-decoration:none;}
+a:hover,a:active,a:focus	{color:#666; text-decoration:underline;}
+
+input, textarea				{ -webkit-appearance:none; -webkit-border-radius:0; }
+input[type="checkbox"]		{ -webkit-appearance:checkbox; }
+input[type="radio"]			{ -webkit-appearance:radio; -webkit-border-radius:10px; }
+
+* html input {margin:-1px 0;} 
+*:first-child+html input {margin:-1px 0}
+
+.png24						{tmp:expression(setPng24(this));}
+
+.hidden						{display:none; }
+.vTop						{vertical-align:top; }
+.vMid						{vertical-align:middle; }
+
+.f12 {font-size:12px;}
+
+.cb {clear:both;}
+.fl {float:left;}
+.fr {float:right;}
+
+.t_r {text-align:right;}
+.t_ct {text-align:center;}
+
+.v_m {vertical-align:middle;}
+
+.p_rel {position:relative;}
+
+.d_none {display:none;}
+
+.cursor						{cursor:pointer; }
+
+
+#transparent { width:100%; height:5000px; position:fixed; background:url('../images/common/bg_pop_all.html') repeat-x; /*background:#000; filter:Alpha(Opacity=60); opacity:0.6;*/ left:0; top:0; z-index:100; _position:absolute; z-index:1000; }
+
+.pop_wrap {position:absolute; top:235px; left:0; width:100%; display:none;}
+
+
+/*======================================================================
+  Selectric
+======================================================================*/
+
+.selectricWrapper {
+  position: relative;
+  margin: 0;
+  /*width: 300px;*/
+  cursor: pointer;
+}
+
+.selectricResponsive {
+  width: 100%;
+}
+
+.selectric {
+  border: 1px solid #bbb;
+  background: #FFF;
+  position: relative;
+}
+
+.selectric .label {
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  height:24px;
+  margin: 0 23px 0 0;
+  padding: 0 0 0 6px;
+  font-size: 12px;
+  line-height: 24px;
+  color: #808080;
+  min-height: 18px;
+}
+
+.selectric .button {
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 19px; 
+  height: 24px;
+  color: #BBB;
+  text-align: center;
+  font: 0/0 a;
+  /* IE Fix */
+  *font: 20px/30px Lucida Sans Unicode, Arial Unicode MS, Arial;
+}
+
+.selectric .button:after {
+  content: " ";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  width: 19px;
+  height: 24px;
+  background:url('../images/common/icon_arr_down.html') no-repeat left top;
+  /*border: 3px solid transparent;
+  border-top-color: #4d4d4d;
+  border-bottom: none;*/
+}
+
+.selectricHover .selectric {
+  border-color: #bbb;
+}
+
+.selectricHover .selectric .button {
+  color: #666;
+}
+
+.selectricHover .selectric .button:after {
+  border-top-color: #000;
+}
+
+.selectricOpen {
+  z-index: 9999;
+}
+
+.selectricOpen .selectric {
+  border-color: #bbb;
+  background: #fff;
+  z-index: 9999;
+}
+
+.selectricOpen .selectricItems {
+  display: block;
+}
+
+
+/* 비활성 */
+.selectricDisabled {
+  /*filter: alpha(opacity=50);
+  opacity: 0.5;
+  cursor: default;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;*/
+}
+
+.selectricDisabled .selectric .label {
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  height:24px;
+  margin: 0 23px 0 0;
+  padding: 0 0 0 6px;
+  font-size: 12px;
+  line-height: 24px;
+  color: #999;
+  min-height: 18px;
+}
+
+.selectricDisabled .selectric {
+  border: 1px solid #bbb;
+  background: #e6e6e6;
+  position: relative;
+}
+
+.selectricDisabled .selectric .button:after {
+  content: " ";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  width: 19px;
+  height: 24px;
+  background:url('../images/common/icon_arr_down2.html') no-repeat left top;
+  /*border: 3px solid transparent;
+  border-top-color: #4d4d4d;
+  border-bottom: none;*/
+}
+
+
+
+.selectricHideSelect {
+  position: relative;
+  overflow: hidden;
+  width: 0;
+  height: 0;
+}
+
+.selectricHideSelect select {
+  position: absolute;
+  left: -100%;
+  display: none;
+}
+
+.selectricInput {
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 1px !important;
+  height: 1px !important;
+  outline: none !important;
+  border: none !important;
+  *font: 0/0 a !important;
+  background: none !important;
+}
+
+.selectricTempShow {
+  position: absolute !important;
+  visibility: hidden !important;
+  display: block !important;
+}
+
+/* Items box */
+
+.selectricItems {
+  display: none;
+  position: absolute;
+  overflow: auto;
+  top: 100%;
+  left: 0;
+  background: #fff;
+  border: 1px solid #CCC;
+  border-top:none;
+  z-index: 9998;
+  /*-webkit-box-shadow: 0 0 10px -6px;
+  box-shadow: 0 0 10px -6px;*/
+}
+
+.selectricItems ul,
+.selectricItems li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 12px;
+  line-height: 18px;
+  min-height: 18px;
+}
+
+.selectricItems li {
+  display: block;
+  padding: 5px;
+  border-top: 0;
+  color: #666;
+  cursor: pointer;
+}
+
+.selectricItems li.selected {
+  background: #fff;
+  color: #666;
+}
+
+.selectricItems li:hover {
+  background: #00b1ed;
+  color: #fff;
+}
+
+.selectricItems li.disabled {
+  background: #F5F5F5;
+  color: #BBB;
+  cursor: default;
+}
+
+.selectricWrapper {float:left; width:98px;}
+
+.board_preNext .title { width:60%; }
+.board_preNext .preArticleIcon	{width:16px; height:16px; position:relative; top:4px; left:-7px; background:url('../../../../ver4.shincheonji.kr/image/preArticle.png') no-repeat center center; display:inline-block;}
+.board_preNext .nextArticleIcon	{width:16px; height:16px; position:relative; top:4px; left:-7px; background:url('../../../../ver4.shincheonji.kr/image/nextArticle.png') no-repeat center center; display:inline-block;}

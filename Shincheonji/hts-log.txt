@@ -1,0 +1,361 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 24 Feb 2020 14:44:46 at http://shincheonji.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://shincheonji.com/ -O1 "C:\My Web Sites\Shincheonji" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:44:47	Warning: 	Note: due to shincheonji.com remote robots.txt rules, links beginning with these path will be forbidden: /file/, /include/, /module/ (see in the options to disable this)
+14:46:25	Error: 	"Not Found" (404) at link shincheonji.com/www.shincheonji.kr (from shincheonji.com/)
+14:46:25	Error: 	"Not Found" (404) at link shincheonji.com/www.shincheonji.kr/skin/default/images/common/logo.png (from shincheonji.com/)
+15:00:44	Warning: 	Retry after error -4 (Incorrect length (18921 Bytes, 913152 expected)) at link shincheonji.com/image/liveBG.jpg (from shincheonji.com/)
+15:00:45	Error: 	"Not Found" (404) at link shincheonji.com/skin/default/images/common/bg_pop_all.png (from shincheonji.com/skin/default/css/base.css?ver20191223)
+15:00:45	Error: 	"Not Found" (404) at link shincheonji.com/skin/default/images/common/icon_arr_down.gif (from shincheonji.com/skin/default/css/base.css?ver20191223)
+15:00:45	Error: 	"Not Found" (404) at link shincheonji.com/skin/default/images/common/icon_arr_down2.gif (from shincheonji.com/skin/default/css/base.css?ver20191223)
+15:00:46	Warning: 	Retry after error -4 (Incorrect length (17473 Bytes, 2234073 expected)) at link shincheonji.com/images/about/img01.jpg (from shincheonji.com/?ch=about02_02)
+15:00:47	Warning: 	Retry after error -5 (Unable to get server's address: 알려진 호스트가 없습니다. ) at link ver3.shincheonji.kr/2014/img/inc/B0000/B1200_imgStepAll.gif (from shincheonji.com/?ch=about03_02)
+15:00:47	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ver3.shincheonji.kr/2014/img/inc/B0000/B1200_img3.jpg (from shincheonji.com/?ch=about03_02)
+15:19:07	Warning: 	Retry after error -4 (Incorrect length (17489 Bytes, 1217281 expected)) at link shincheonji.com/skin/default/images/sky/img02.jpg (from shincheonji.com/?ch=sky01)
+15:21:12	Error: 	"Not Found" (404) at link shincheonji.com/images/award/award_.jpg (from shincheonji.com/?ch=testimonialByYear)
+15:21:12	Warning: 	Retry after error -4 (Incorrect length (40335 Bytes, 2234073 expected)) at link shincheonji.com/images/about/img01.jpg (from shincheonji.com/?ch=about02_02)
+15:21:15	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ver3.shincheonji.kr/2014/img/inc/B0000/B1200_imgStepAll.gif (from shincheonji.com/?ch=about03_02)
+15:21:15	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ver3.shincheonji.kr/2014/img/inc/B0000/B1200_img3.jpg (from shincheonji.com/?ch=about03_02)
+15:23:57	Warning: 	Retry after error -4 (Connect Error) at link shincheonji.com/index.php?ch=boardModify&boardID=wordCompareMovie&updateID=5143&page=6 (from shincheonji.com/index.php?ch=boardList&boardID=wordCompareMovie&page=6)
+15:27:53	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=246
+15:27:53	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=243
+15:27:53	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=242
+15:27:53	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=241
+15:27:54	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=240
+15:27:54	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=239
+15:27:54	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=238
+15:27:54	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=237
+15:27:54	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=236
+15:27:54	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=235
+15:31:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=200
+15:31:16	Warning: 	Retry after error -4 (Incorrect length (32365 Bytes, 40549 expected)) at link shincheonji.com/index.php?ch=boardFileDownload&boardFileID=188 (from shincheonji.com/bv_newsPaper_5157)
+15:31:16	Warning: 	Retry after error -4 (Interrupted transfer) at link shincheonji.com/index.php?ch=boardFileDownload&boardFileID=186 (from shincheonji.com/bv_newsPaper_5039)
+15:31:16	Warning: 	Retry after error -4 (Interrupted transfer) at link shincheonji.com/index.php?ch=boardFileDownload&boardFileID=184 (from shincheonji.com/bv_newsPaper_5037)
+15:33:21	Warning: 	Retry after error -4 (Incorrect length (55995 Bytes, 1217281 expected)) at link shincheonji.com/skin/default/images/sky/img02.jpg (from shincheonji.com/?ch=sky01)
+15:35:48	Warning: 	Retry after error -4 (Incorrect length (17688 Bytes, 1002383 expected)) at link shincheonji.com/images/award/award_2014.jpg (from shincheonji.com/?ch=testimonialByYear&year=2014)
+15:35:48	Warning: 	Retry after error -4 (Incorrect length (21161 Bytes, 2884504 expected)) at link shincheonji.com/images/award/award_2015.jpg (from shincheonji.com/?ch=testimonialByYear&year=2015)
+15:35:49	Warning: 	Retry after error -4 (Incorrect length (18964 Bytes, 3169099 expected)) at link shincheonji.com/images/award/award_2016.jpg (from shincheonji.com/?ch=testimonialByYear&year=2016)
+15:35:49	Warning: 	Retry after error -4 (Incorrect length (19606 Bytes, 4821788 expected)) at link shincheonji.com/images/award/award_2017.jpg (from shincheonji.com/?ch=testimonialByYear&year=2017)
+15:35:51	Warning: 	Retry after error -4 (Incorrect length (17556 Bytes, 4390889 expected)) at link shincheonji.com/images/award/award_2018.jpg (from shincheonji.com/?ch=testimonialByYear&year=2018)
+15:35:51	Error: 	"Incorrect length (56644 Bytes, 2234073 expected)" (-4) after 2 retries at link shincheonji.com/images/about/img01.jpg (from shincheonji.com/?ch=about02_02)
+15:35:51	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ver3.shincheonji.kr/2014/img/inc/B0000/B1200_imgStepAll.gif (from shincheonji.com/?ch=about03_02)
+15:35:51	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ver3.shincheonji.kr/2014/img/inc/B0000/B1200_img3.jpg (from shincheonji.com/?ch=about03_02)
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=206
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=205
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=204
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=203
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=202
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=201
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=199
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=198
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=196
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=195
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=194
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=193
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=192
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=191
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=190
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=189
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=182
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=181
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=179
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=177
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=174
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=173
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=172
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=171
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=170
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=169
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=167
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=162
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=160
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=159
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=157
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=155
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=151
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=150
+15:41:42	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=149
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=144
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=143
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=142
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=141
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=133
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=131
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=130
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=129
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=128
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=127
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=125
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=123
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=122
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=120
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=119
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=118
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=121
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=116
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=114
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=113
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=112
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=111
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=110
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=109
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=108
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=107
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=105
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=104
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=103
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=101
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=94
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=93
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=92
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=90
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=89
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=88
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=87
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=86
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=85
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=84
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=83
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=75
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=74
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=73
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=72
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=71
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=67
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=66
+15:41:43	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=65
+15:43:06	Warning: 	Retry after error -4 (Incorrect length (48741 Bytes, 56925 expected)) at link shincheonji.com/index.php?ch=boardFileDownload&boardFileID=188 (from shincheonji.com/bv_newsPaper_5157)
+15:43:06	Warning: 	Retry after error -4 (Interrupted transfer) at link shincheonji.com/index.php?ch=boardFileDownload&boardFileID=186 (from shincheonji.com/bv_newsPaper_5039)
+15:43:06	Warning: 	Retry after error -4 (Interrupted transfer) at link shincheonji.com/index.php?ch=boardFileDownload&boardFileID=184 (from shincheonji.com/bv_newsPaper_5037)
+15:43:07	Warning: 	Retry after error -4 (Interrupted transfer) at link shincheonji.com/index.php?ch=boardFileDownload&boardFileID=197 (from shincheonji.com/bv_shincheonjiIssue_5408?page=7)
+15:43:40	Error: 	"Incorrect length (87816 Bytes, 1217281 expected)" (-4) after 2 retries at link shincheonji.com/skin/default/images/sky/img02.jpg (from shincheonji.com/?ch=sky01)
+15:46:23	Warning: 	Retry after error -4 (Incorrect length (38991 Bytes, 1002383 expected)) at link shincheonji.com/images/award/award_2014.jpg (from shincheonji.com/?ch=testimonialByYear&year=2014)
+15:46:23	Warning: 	Retry after error -4 (Incorrect length (43130 Bytes, 2884504 expected)) at link shincheonji.com/images/award/award_2015.jpg (from shincheonji.com/?ch=testimonialByYear&year=2015)
+15:46:23	Warning: 	Retry after error -4 (Incorrect length (29929 Bytes, 3169099 expected)) at link shincheonji.com/images/award/award_2016.jpg (from shincheonji.com/?ch=testimonialByYear&year=2016)
+15:46:23	Warning: 	Retry after error -4 (Incorrect length (39953 Bytes, 4821788 expected)) at link shincheonji.com/images/award/award_2017.jpg (from shincheonji.com/?ch=testimonialByYear&year=2017)
+15:46:26	Warning: 	Retry after error -4 (Incorrect length (35881 Bytes, 4390889 expected)) at link shincheonji.com/images/award/award_2018.jpg (from shincheonji.com/?ch=testimonialByYear&year=2018)
+15:46:29	Warning: 	Retry after error -4 (Connect Error) at link shincheonji.com/bv_theNewHeavenAndEarth_9277?page=6&searchCategory1=English (from shincheonji.com/index.php?ch=boardList&boardID=theNewHeavenAndEarth&searchCategory1=English&page=6)
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=64
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=63
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=62
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=61
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=60
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=59
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=58
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=57
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=54
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=53
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=52
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=51
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=50
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=49
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=48
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=47
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=44
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=39
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=37
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=36
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=35
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=34
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=31
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=30
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=29
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=27
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=26
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=25
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=24
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=23
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=21
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=20
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=19
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=18
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=15
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=12
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=11
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=10
+15:50:15	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=9
+15:50:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link shincheonji.com/index.php?ch=boardFileDownload&boardFileID=188 (from shincheonji.com/bv_newsPaper_5157)
+15:50:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link shincheonji.com/index.php?ch=boardFileDownload&boardFileID=186 (from shincheonji.com/bv_newsPaper_5039)
+15:50:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link shincheonji.com/index.php?ch=boardFileDownload&boardFileID=184 (from shincheonji.com/bv_newsPaper_5037)
+15:50:15	Warning: 	Retry after error -4 (Interrupted transfer) at link shincheonji.com/index.php?ch=boardFileDownload&boardFileID=197 (from shincheonji.com/bv_shincheonjiIssue_5408?page=7)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150303021328_19982.jpg (from shincheonji.com/bv_heavenCulturalServices_1864?page=16)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150303021335_30128.jpg (from shincheonji.com/bv_heavenCulturalServices_1864?page=16)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150303021044_50779.jpg (from shincheonji.com/bv_heavenCulturalServices_1863?page=17)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150303020836_17457.jpg (from shincheonji.com/bv_heavenCulturalServices_1862?page=17)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150303020453_22955.jpg (from shincheonji.com/bv_heavenCulturalServices_1861?page=17)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150303020500_75920.jpg (from shincheonji.com/bv_heavenCulturalServices_1861?page=17)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150303020233_25364.jpg (from shincheonji.com/bv_heavenCulturalServices_1860?page=17)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150303020248_72560.jpg (from shincheonji.com/bv_heavenCulturalServices_1860?page=17)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150303015811_98334.jpg (from shincheonji.com/bv_heavenCulturalServices_1859?page=17)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150303015804_35832.jpg (from shincheonji.com/bv_heavenCulturalServices_1859?page=17)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150303015533_95790.jpg (from shincheonji.com/bv_heavenCulturalServices_1858?page=17)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150303015207_67546.jpg (from shincheonji.com/bv_heavenCulturalServices_1857?page=17)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150303014649_59916.jpg (from shincheonji.com/bv_heavenCulturalServices_1856?page=17)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150303014701_92504.jpg (from shincheonji.com/bv_heavenCulturalServices_1856?page=17)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150303014655_81525.jpg (from shincheonji.com/bv_heavenCulturalServices_1856?page=17)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150303014708_73459.jpg (from shincheonji.com/bv_heavenCulturalServices_1856?page=17)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150122013809_44378.jpg (from shincheonji.com/bv_heavenCulturalServices_1830?page=20)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150122013613_28925.jpg (from shincheonji.com/bv_heavenCulturalServices_1829?page=20)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150122013620_20101.jpg (from shincheonji.com/bv_heavenCulturalServices_1829?page=20)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150122013244_81884.jpg (from shincheonji.com/bv_heavenCulturalServices_1828?page=20)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150122013405_12833.jpg (from shincheonji.com/bv_heavenCulturalServices_1828?page=20)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150122012616_57298.jpg (from shincheonji.com/bv_heavenCulturalServices_1827?page=20)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150122012630_18081.jpg (from shincheonji.com/bv_heavenCulturalServices_1827?page=20)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150122012625_52154.jpg (from shincheonji.com/bv_heavenCulturalServices_1827?page=20)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150122012636_53251.jpg (from shincheonji.com/bv_heavenCulturalServices_1827?page=20)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150122012609_47052.jpg (from shincheonji.com/bv_heavenCulturalServices_1827?page=20)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150122012320_46120.jpg (from shincheonji.com/bv_heavenCulturalServices_1826?page=20)
+15:50:17	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20150122012331_97292.jpg (from shincheonji.com/bv_heavenCulturalServices_1826?page=20)
+15:52:12	Error: 	"Incorrect length (57681 Bytes, 1002383 expected)" (-4) after 2 retries at link shincheonji.com/images/award/award_2014.jpg (from shincheonji.com/?ch=testimonialByYear&year=2014)
+15:52:12	Error: 	"Incorrect length (61120 Bytes, 2884504 expected)" (-4) after 2 retries at link shincheonji.com/images/award/award_2015.jpg (from shincheonji.com/?ch=testimonialByYear&year=2015)
+15:52:12	Error: 	"Incorrect length (50151 Bytes, 3169099 expected)" (-4) after 2 retries at link shincheonji.com/images/award/award_2016.jpg (from shincheonji.com/?ch=testimonialByYear&year=2016)
+15:52:12	Error: 	"Incorrect length (62423 Bytes, 4821788 expected)" (-4) after 2 retries at link shincheonji.com/images/award/award_2017.jpg (from shincheonji.com/?ch=testimonialByYear&year=2017)
+15:52:12	Error: 	"Incorrect length (53036 Bytes, 4390889 expected)" (-4) after 2 retries at link shincheonji.com/images/award/award_2018.jpg (from shincheonji.com/?ch=testimonialByYear&year=2018)
+15:56:08	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=79
+15:56:08	Warning: 	File not parsed, looks like binary: shincheonji.com/index.php?ch=boardFileDownload&boardFileID=78
+15:56:08	Warning: 	Retry after error -4 (Interrupted transfer) at link shincheonji.com/index.php?ch=boardFileDownload&boardFileID=77 (from shincheonji.com/bv_scjNotice_4093?page=12)
+15:56:08	Error: 	"Incorrect length (24113 Bytes, 32305 expected)" (-4) after 2 retries at link shincheonji.com/index.php?ch=boardFileDownload&boardFileID=197 (from shincheonji.com/bv_shincheonjiIssue_5408?page=7)
+15:56:08	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141127005213_66669.jpg (from shincheonji.com/bv_heavenCulturalServices_1780?page=25)
+15:56:08	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141127005539_99349.jpg (from shincheonji.com/bv_heavenCulturalServices_1780?page=25)
+15:56:08	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141127005520_26939.jpg (from shincheonji.com/bv_heavenCulturalServices_1780?page=25)
+15:56:08	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141127004652_11987.jpg (from shincheonji.com/bv_heavenCulturalServices_1779?page=25)
+15:56:08	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141127004523_63345.jpg (from shincheonji.com/bv_heavenCulturalServices_1779?page=25)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141127004310_46991.jpg (from shincheonji.com/bv_heavenCulturalServices_1778?page=25)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141127004301_52914.jpg (from shincheonji.com/bv_heavenCulturalServices_1778?page=25)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141127004008_96759.jpg (from shincheonji.com/bv_heavenCulturalServices_1777?page=25)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141113231508_99463.jpg (from shincheonji.com/bv_heavenCulturalServices_1766?page=26)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141113231435_81472.jpg (from shincheonji.com/bv_heavenCulturalServices_1766?page=26)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141113231441_35716.jpg (from shincheonji.com/bv_heavenCulturalServices_1766?page=26)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141113231312_92849.jpg (from shincheonji.com/bv_heavenCulturalServices_1765?page=26)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141113231319_89200.jpg (from shincheonji.com/bv_heavenCulturalServices_1765?page=26)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141113231058_96465.jpg (from shincheonji.com/bv_heavenCulturalServices_1764?page=26)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141113231115_41955.jpg (from shincheonji.com/bv_heavenCulturalServices_1764?page=26)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141113231105_61142.jpg (from shincheonji.com/bv_heavenCulturalServices_1764?page=26)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141113230726_22273.jpg (from shincheonji.com/bv_heavenCulturalServices_1763?page=27)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141113230747_95626.jpg (from shincheonji.com/bv_heavenCulturalServices_1763?page=27)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141113230734_51564.jpg (from shincheonji.com/bv_heavenCulturalServices_1763?page=27)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141113230604_55160.jpg (from shincheonji.com/bv_heavenCulturalServices_1762?page=27)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141026233431_70763.jpg (from shincheonji.com/bv_heavenCulturalServices_1755?page=27)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141026233425_44531.jpg (from shincheonji.com/bv_heavenCulturalServices_1755?page=27)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141026233418_29808.jpg (from shincheonji.com/bv_heavenCulturalServices_1755?page=27)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141026233015_92987.jpg (from shincheonji.com/bv_heavenCulturalServices_1754?page=27)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141026233150_90425.jpg (from shincheonji.com/bv_heavenCulturalServices_1754?page=27)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141026232253_55522.jpg (from shincheonji.com/bv_heavenCulturalServices_1753?page=28)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141026231815_25742.jpg (from shincheonji.com/bv_heavenCulturalServices_1752?page=28)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141026231806_53265.jpg (from shincheonji.com/bv_heavenCulturalServices_1752?page=28)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141026231822_49799.jpg (from shincheonji.com/bv_heavenCulturalServices_1752?page=28)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141026231205_92450.jpg (from shincheonji.com/bv_heavenCulturalServices_1751?page=28)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141026230334_38797.jpg (from shincheonji.com/bv_heavenCulturalServices_1750?page=28)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141026230544_70474.jpg (from shincheonji.com/bv_heavenCulturalServices_1750?page=28)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141018011848_83129.jpg (from shincheonji.com/bv_heavenCulturalServices_1749?page=28)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141018011250_71859.jpg (from shincheonji.com/bv_heavenCulturalServices_1748?page=28)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141018011312_51666.jpg (from shincheonji.com/bv_heavenCulturalServices_1748?page=28)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141018011304_57291.jpg (from shincheonji.com/bv_heavenCulturalServices_1748?page=28)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141018011112_12272.jpg (from shincheonji.com/bv_heavenCulturalServices_1747?page=28)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141018010519_54940.jpg (from shincheonji.com/bv_heavenCulturalServices_1746?page=28)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141018010528_55849.jpg (from shincheonji.com/bv_heavenCulturalServices_1746?page=28)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141018010254_15229.jpg (from shincheonji.com/bv_heavenCulturalServices_1745?page=28)
+15:56:09	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20141018010300_72262.jpg (from shincheonji.com/bv_heavenCulturalServices_1745?page=28)
+16:02:10	Warning: 	Retry after error -4 (Incorrect length (65085 Bytes, 73269 expected)) at link shincheonji.com/index.php?ch=boardFileDownload&boardFileID=77 (from shincheonji.com/bv_scjNotice_4093?page=12)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140926005410_17336.jpg (from shincheonji.com/bv_heavenCulturalServices_1691?page=34)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140926004930_18260.jpg (from shincheonji.com/bv_heavenCulturalServices_1690?page=34)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140926004922_10542.jpg (from shincheonji.com/bv_heavenCulturalServices_1690?page=34)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140926004632_24144.jpg (from shincheonji.com/bv_heavenCulturalServices_1689?page=34)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140926004437_89076.jpg (from shincheonji.com/bv_heavenCulturalServices_1688?page=34)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140926004428_94893.jpg (from shincheonji.com/bv_heavenCulturalServices_1688?page=34)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140926004205_75865.jpg (from shincheonji.com/bv_heavenCulturalServices_1687?page=34)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140926004219_13743.jpg (from shincheonji.com/bv_heavenCulturalServices_1687?page=34)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140926004213_94890.jpg (from shincheonji.com/bv_heavenCulturalServices_1687?page=34)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140824001144_10422.jpg (from shincheonji.com/bv_heavenCulturalServices_1658?page=37)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140824001136_72240.jpg (from shincheonji.com/bv_heavenCulturalServices_1658?page=37)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140824001125_44162.jpg (from shincheonji.com/bv_heavenCulturalServices_1658?page=37)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140824000835_42080.jpg (from shincheonji.com/bv_heavenCulturalServices_1657?page=37)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140824000843_95517.jpg (from shincheonji.com/bv_heavenCulturalServices_1657?page=37)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140824000828_99668.jpg (from shincheonji.com/bv_heavenCulturalServices_1657?page=37)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140824000616_43792.jpg (from shincheonji.com/bv_heavenCulturalServices_1656?page=37)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140824000601_36921.jpg (from shincheonji.com/bv_heavenCulturalServices_1656?page=37)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140824000405_37155.jpg (from shincheonji.com/bv_heavenCulturalServices_1655?page=37)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140824000414_54999.jpg (from shincheonji.com/bv_heavenCulturalServices_1655?page=37)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140824000230_29768.jpg (from shincheonji.com/bv_heavenCulturalServices_1654?page=37)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140824000222_40189.jpg (from shincheonji.com/bv_heavenCulturalServices_1654?page=37)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140823235849_50812.jpg (from shincheonji.com/bv_heavenCulturalServices_1653?page=38)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140823235832_92262.jpg (from shincheonji.com/bv_heavenCulturalServices_1653?page=38)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140823235617_67487.jpg (from shincheonji.com/bv_heavenCulturalServices_1652?page=38)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140823235623_76648.jpg (from shincheonji.com/bv_heavenCulturalServices_1652?page=38)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140823235218_17925.jpg (from shincheonji.com/bv_heavenCulturalServices_1651?page=38)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140823235307_49348.jpg (from shincheonji.com/bv_heavenCulturalServices_1651?page=38)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140823235232_38139.jpg (from shincheonji.com/bv_heavenCulturalServices_1651?page=38)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140823235300_13332.jpg (from shincheonji.com/bv_heavenCulturalServices_1651?page=38)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140823235238_66678.jpg (from shincheonji.com/bv_heavenCulturalServices_1651?page=38)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140823235031_53619.jpg (from shincheonji.com/bv_heavenCulturalServices_1650?page=38)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140823235037_48864.jpg (from shincheonji.com/bv_heavenCulturalServices_1650?page=38)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140823234803_75006.jpg (from shincheonji.com/bv_heavenCulturalServices_1649?page=38)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140823234811_65965.jpg (from shincheonji.com/bv_heavenCulturalServices_1649?page=38)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140820231121_39216.jpg (from shincheonji.com/bv_heavenCulturalServices_1643?page=39)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140820230952_85380.jpg (from shincheonji.com/bv_heavenCulturalServices_1642?page=39)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140820230753_42954.jpg (from shincheonji.com/bv_heavenCulturalServices_1641?page=39)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140820230800_31242.jpg (from shincheonji.com/bv_heavenCulturalServices_1641?page=39)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140820230514_54788.jpg (from shincheonji.com/bv_heavenCulturalServices_1640?page=39)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140820230528_13970.jpg (from shincheonji.com/bv_heavenCulturalServices_1640?page=39)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140820230030_30715.jpg (from shincheonji.com/bv_heavenCulturalServices_1639?page=39)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140820230041_41949.jpg (from shincheonji.com/bv_heavenCulturalServices_1639?page=39)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140820225803_77861.jpg (from shincheonji.com/bv_heavenCulturalServices_1638?page=39)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140820225810_71851.jpg (from shincheonji.com/bv_heavenCulturalServices_1638?page=39)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140820225516_61342.jpg (from shincheonji.com/bv_heavenCulturalServices_1637?page=39)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140820225339_74607.jpg (from shincheonji.com/bv_heavenCulturalServices_1636?page=39)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140820225050_15699.jpg (from shincheonji.com/bv_heavenCulturalServices_1635?page=39)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140820225057_91468.jpg (from shincheonji.com/bv_heavenCulturalServices_1635?page=39)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140820225103_76703.jpg (from shincheonji.com/bv_heavenCulturalServices_1635?page=39)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140820224528_58690.jpg (from shincheonji.com/bv_heavenCulturalServices_1634?page=39)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140820224520_53269.jpg (from shincheonji.com/bv_heavenCulturalServices_1634?page=39)
+16:02:11	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140820224511_59563.jpg (from shincheonji.com/bv_heavenCulturalServices_1634?page=39)
+16:03:50	Warning: 	Retry after error -4 (Connect Error) at link shincheonji.com/bv_theNewHeavenAndEarth_8344?page=32&searchCategory1=English (from shincheonji.com/index.php?ch=boardList&boardID=theNewHeavenAndEarth&searchCategory1=English&page=32)
+16:06:47	Error: 	"Incorrect length (40517 Bytes, 48709 expected)" (-4) after 2 retries at link shincheonji.com/index.php?ch=boardFileDownload&boardFileID=77 (from shincheonji.com/bv_scjNotice_4093?page=12)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140805232859_67881.jpg (from shincheonji.com/bv_heavenCulturalServices_1607?page=42)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140805232906_36056.jpg (from shincheonji.com/bv_heavenCulturalServices_1607?page=42)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140805232644_77219.jpg (from shincheonji.com/bv_heavenCulturalServices_1606?page=42)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140805232356_70301.jpg (from shincheonji.com/bv_heavenCulturalServices_1605?page=42)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140805232051_59248.jpg (from shincheonji.com/bv_heavenCulturalServices_1604?page=42)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140805231933_28890.jpg (from shincheonji.com/bv_heavenCulturalServices_1603?page=43)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140805231344_76159.jpg (from shincheonji.com/bv_heavenCulturalServices_1602?page=43)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140805233321_72175.jpg (from shincheonji.com/bv_heavenCulturalServices_1601?page=43)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140805233312_47342.jpg (from shincheonji.com/bv_heavenCulturalServices_1601?page=43)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140805233304_90331.jpg (from shincheonji.com/bv_heavenCulturalServices_1601?page=43)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140801130326_46372.jpg (from shincheonji.com/bv_heavenCulturalServices_1600?page=43)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140801130046_26568.jpg (from shincheonji.com/bv_heavenCulturalServices_1599?page=43)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140801125920_40424.jpg (from shincheonji.com/bv_heavenCulturalServices_1598?page=43)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140801125413_74323.jpg (from shincheonji.com/bv_heavenCulturalServices_1597?page=43)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140801125403_19834.jpg (from shincheonji.com/bv_heavenCulturalServices_1597?page=43)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140801125058_40761.jpg (from shincheonji.com/bv_heavenCulturalServices_1596?page=43)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140801125050_79439.jpg (from shincheonji.com/bv_heavenCulturalServices_1596?page=43)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140715095644_27345.jpg (from shincheonji.com/bv_heavenCulturalServices_1569?page=46)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140715095638_17737.jpg (from shincheonji.com/bv_heavenCulturalServices_1569?page=46)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140715095312_47992.jpg (from shincheonji.com/bv_heavenCulturalServices_1568?page=46)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140715094730_25233.jpg (from shincheonji.com/bv_heavenCulturalServices_1567?page=46)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140715094721_49466.jpg (from shincheonji.com/bv_heavenCulturalServices_1567?page=46)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140715094401_81162.jpg (from shincheonji.com/bv_heavenCulturalServices_1566?page=46)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140715094326_31487.jpg (from shincheonji.com/bv_heavenCulturalServices_1566?page=46)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140715094415_44207.jpg (from shincheonji.com/bv_heavenCulturalServices_1566?page=46)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140715094105_24021.jpg (from shincheonji.com/bv_heavenCulturalServices_1565?page=46)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140715094056_22849.jpg (from shincheonji.com/bv_heavenCulturalServices_1565?page=46)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140715093933_51967.jpg (from shincheonji.com/bv_heavenCulturalServices_1564?page=46)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140715093803_18566.jpg (from shincheonji.com/bv_heavenCulturalServices_1563?page=47)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140618235242_18374.jpg (from shincheonji.com/bv_heavenCulturalServices_1551?page=48)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140618235259_94825.jpg (from shincheonji.com/bv_heavenCulturalServices_1551?page=48)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140618234838_66881.jpg (from shincheonji.com/bv_heavenCulturalServices_1550?page=48)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140618235102_58994.jpg (from shincheonji.com/bv_heavenCulturalServices_1550?page=48)
+16:06:47	Error: 	"Not Found" (404) at link www.shinchonji.kr/data/files/20140618234654_67157.jpg (from shincheonji.com/bv_heavenCulturalServices_1549?page=48)
+16:09:22	Error: 	"Not Found" (404) at link shincheonji.com/data/files/20131111210806_75637.jpg (from shincheonji.com/bv_heavenCulturalServices_1445?page=58)
+16:09:22	Error: 	"Not Found" (404) at link shincheonji.com/data/files/20131111210801_72851.jpg (from shincheonji.com/bv_heavenCulturalServices_1445?page=58)
+16:15:43	Warning: 	Retry after error -4 (Connect Error) at link shincheonji.com/bv_theNewHeavenAndEarth_2630?page=90&searchCategory1=%ed%95%9c%ea%b5%ad%ec%96%b4 (from shincheonji.com/index.php?ch=boardList&boardID=theNewHeavenAndEarth&searchCategory1=%ed%95%9c%ea%b5%ad%ec%96%b4&page=90)
+16:18:16	Warning: 	Retry after error -4 (Connect Error) at link shincheonji.com/bv_theNewHeavenAndEarth_2560?page=97&searchCategory1=%ed%95%9c%ea%b5%ad%ec%96%b4 (from shincheonji.com/index.php?ch=boardList&boardID=theNewHeavenAndEarth&searchCategory1=%ed%95%9c%ea%b5%ad%ec%96%b4&page=97)
+16:20:15	Warning: 	Retry after error -4 (Connect Error) at link shincheonji.com/bv_theNewHeavenAndEarth_2515?page=101&searchCategory1=%ed%95%9c%ea%b5%ad%ec%96%b4 (from shincheonji.com/index.php?ch=boardList&boardID=theNewHeavenAndEarth&searchCategory1=%ed%95%9c%ea%b5%ad%ec%96%b4&page=101)
+16:39:46	Warning: 	Retry after error -4 (Connect Error) at link shincheonji.com/bv_theNewHeavenAndEarth_2393?page=425 (from shincheonji.com/index.php?ch=boardList&boardID=theNewHeavenAndEarth&page=425)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 56 minutes 49 seconds : 15351 links scanned, 15137 files written (181683347 bytes overall) [105382293 bytes received at 15035 bytes/sec], 124295139 bytes transferred using HTTP compression in 13431 files, ratio 35%
+(177 errors, 173 warnings, 0 messages)
